@@ -10,4 +10,4 @@ def bubblesort(arr):
             break
     return arr
 arr=[5,2,9,1]
-print(bubblesort(arr))
+print(bubblesort(arr)) # bubble sort concept swapping the neighbour numbers
