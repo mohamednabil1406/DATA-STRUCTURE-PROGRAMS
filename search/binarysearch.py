@@ -14,3 +14,4 @@ arr = [1, 2, 4, 7, 9]
 target = 7
 result = binarysearch(arr, target)
 print("Index:", result)  # Output: Index: 3
+
